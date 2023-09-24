@@ -1,0 +1,15 @@
+body{
+    background-color:#3c7057;
+}
+.title{
+    max-width: 1068px;
+    margin: auto;
+    width: 100%;
+    color: #ffbd59;
+    font-size: 4.0rem;
+    text-align: center;
+    font-weight: 600;
+    justify-content: center;
+    font-style: italic;
+    margin-top: 5.0rem;
+}
